@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou Ricardo Temple 👋
 
-<!--
-**RickMaverick/rickmaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 De quase Nutricionista a Programador
+- 🌱 Hoje estou estudando Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=68D7FB&height=120&section=header"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=68D7FB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ricardo+Temple;I'm+23+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RickMaverick&show_icons=true&count_private=true&hide_border=true&title_color=68D7FB&icon_color=68D7FB&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Temple github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickMaverick&layout=compact&hide_border=true&title_color=68D7FB&text_color=ff91a4&bg_color=0d1117" />
+</div>
